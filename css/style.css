@@ -1,13 +1,14 @@
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: 'Lucida Grande', sans-serif;
+    font-family: "Lucida Grande", sans-serif;
   }
 h1 {
     font-size: 64px; 
     text-align: center;
 }
 h2 {
+
     font-size: 30px;
     text-shadow: 5px 5px 2px #808080;
 
@@ -46,9 +47,18 @@ div{
 #green{
     background-color: #008000;
 }
-footer{
-    text-align: right
+#yellow 
+h2 {
+    
+    text-shadow: 5px 5px 2px #c7e2c7;
+
+}
+
+footer p{
+    
+    text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
+    padding-top: 0px;
     
 }
